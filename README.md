@@ -1,3 +1,7 @@
+## Hello World! Coding comfortably 👋
+
+![Banner](img/Kunekocode.gif)
+
 <!-- Tambahan: Gambar GIF -->
 ![Kuneko](img/R1.gif)
 
